@@ -1,0 +1,6 @@
+C:\Users\Laptop\Documents\Upcoming\Interviews\Cint\RobotCleaner.Prototype\RobotCleaner\obj\Debug\RobotCleaner.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\Upcoming\Interviews\Cint\RobotCleaner.Prototype\RobotCleaner\obj\Debug\RobotCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\Upcoming\Interviews\Cint\RobotCleaner.Prototype\RobotCleaner\bin\Debug\RobotCleaner.dll
+C:\Users\Laptop\Documents\Upcoming\Interviews\Cint\RobotCleaner.Prototype\RobotCleaner\bin\Debug\RobotCleaner.pdb
+C:\Users\Laptop\Documents\Upcoming\Interviews\Cint\RobotCleaner.Prototype\RobotCleaner\obj\Debug\RobotCleaner.dll
+C:\Users\Laptop\Documents\Upcoming\Interviews\Cint\RobotCleaner.Prototype\RobotCleaner\obj\Debug\RobotCleaner.pdb
